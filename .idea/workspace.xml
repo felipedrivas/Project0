@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b08bcec-500c-4389-9bfc-028ded2bd19f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SQL_SCRIPT.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tester/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tester/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tester/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tester/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tester/SQL_SCRIPT.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tester/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tester/src/main/java/com/revature/DAOs/EmployeeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tester/src/main/java/com/revature/DAOs/EmployeeDAOInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tester/src/main/java/com/revature/DAOs/RoleDAOInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tester/src/main/java/com/revature/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tester/src/main/java/com/revature/controllers/RoleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tester/src/main/java/com/revature/models/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tester/src/main/java/com/revature/models/LoginDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.github" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/revature/utils/ConnectionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tester/src/main/java/com/revature/utils/ConnectionUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/DAOs/AuthDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/DAOs/AuthDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/DAOs/ProduceDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tester/src/main/java/com/revature/DAOs/RoleDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/DAOs/ProduceDAOInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/DAOs/RoleDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/DAOs/RoleDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/DAOs/RoleDAOInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/DAOs/RoleDAOInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/DAOs/TypeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tester/src/main/java/com/revature/DAOs/AuthDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/DAOs/TypeDAOInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/DAOs/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/DAOs/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/DAOs/UserDAOInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/DAOs/UserDAOInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/controllers/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/controllers/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/controllers/ProduceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tester/src/main/java/com/revature/controllers/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/controllers/RoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/controllers/RoleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/controllers/TypeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tester/src/main/java/com/revature/controllers/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/controllers/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/models/LoginDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/models/LoginDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/models/Produce.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tester/src/main/java/com/revature/models/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/models/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/models/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/models/Type.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/utils/ConnectionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/utils/ConnectionUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project0Demo/src/main/java/com/revature/DAOs/AuthDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project0Demo/src/main/java/com/revature/DAOs/AuthDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project0Demo/src/main/java/com/revature/LauncherNEW.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project0Demo/src/main/java/com/revature/LauncherNEW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project0Demo/src/main/java/com/revature/controllers/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project0Demo/src/main/java/com/revature/controllers/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project0Demo/src/main/java/com/revature/models/LoginDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project0Demo/src/main/java/com/revature/models/LoginDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project0Demo/src/main/java/com/revature/utils/ConnectionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project0Demo/src/main/java/com/revature/utils/ConnectionUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1" beforeDir="false" afterPath="$PROJECT_DIR$/../week1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2" beforeDir="false" afterPath="$PROJECT_DIR$/../week2" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2nZxDRlwYQ66mRTjL3L0R06ar3E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Launcher.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/felip/Documents/Revature/projects/Project0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\felip\Documents\Revature\projects\Project0" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b08bcec-500c-4389-9bfc-028ded2bd19f" name="Changes" comment="" />
+      <created>1729194282015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729194282015</updated>
+    </task>
+    <servers />
+  </component>
+</project>
